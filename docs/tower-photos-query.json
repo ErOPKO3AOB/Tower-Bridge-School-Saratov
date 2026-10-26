@@ -1,0 +1,1913 @@
+{
+  "mutations": [],
+  "queries": [
+    {
+      "dehydratedAt": 1793009674145,
+      "state": {
+        "data": {
+          "result": {
+            "items": [
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "15",
+              "16",
+              "17",
+              "18",
+              "19",
+              "20",
+              "21",
+              "22",
+              "23",
+              "24",
+              "25",
+              "26",
+              "27",
+              "28",
+              "29",
+              "30",
+              "31",
+              "32",
+              "33",
+              "34",
+              "35",
+              "36",
+              "37",
+              "38",
+              "39",
+              "40",
+              "41",
+              "42",
+              "43",
+              "44",
+              "45",
+              "46",
+              "47",
+              "48",
+              "49",
+              "50",
+              "51",
+              "52",
+              "53",
+              "54",
+              "55",
+              "56",
+              "57",
+              "58",
+              "59",
+              "60",
+              "61",
+              "62",
+              "63",
+              "64",
+              "65",
+              "67",
+              "68",
+              "69",
+              "70",
+              "71",
+              "72",
+              "73",
+              "74",
+              "76",
+              "77",
+              "78",
+              "80",
+              "81",
+              "82",
+              "83",
+              "84",
+              "85",
+              "86",
+              "87",
+              "88",
+              "89",
+              "90",
+              "91",
+              "94",
+              "95",
+              "96",
+              "97",
+              "103",
+              "106",
+              "108",
+              "109",
+              "111",
+              "112",
+              "113",
+              "114",
+              "115",
+              "116",
+              "118",
+              "122",
+              "126",
+              "127",
+              "129",
+              "131",
+              "132",
+              "134",
+              "135",
+              "137",
+              "138",
+              "139",
+              "142",
+              "143",
+              "144",
+              "150",
+              "151",
+              "152",
+              "153",
+              "154",
+              "155",
+              "158",
+              "159",
+              "160",
+              "161",
+              "162",
+              "166",
+              "167",
+              "168",
+              "169",
+              "170",
+              "174",
+              "176",
+              "177",
+              "178",
+              "179",
+              "180",
+              "181",
+              "182",
+              "183",
+              "184",
+              "185",
+              "186",
+              "188",
+              "189",
+              "190",
+              "191",
+              "192",
+              "193",
+              "196",
+              "201",
+              "202",
+              "203",
+              "204",
+              "205",
+              "206",
+              "207",
+              "208",
+              "209",
+              "210",
+              "213",
+              "217",
+              "221",
+              "232",
+              "240",
+              "241",
+              "242",
+              "245",
+              "247",
+              "248",
+              "249",
+              "251",
+              "252",
+              "253",
+              "255",
+              "256",
+              "257",
+              "274",
+              "283",
+              "65541",
+              "65542",
+              "65546",
+              "65547",
+              "65548",
+              "65549",
+              "65550",
+              "65551",
+              "65552",
+              "65553",
+              "65555",
+              "65557",
+              "65558",
+              "65563",
+              "65565",
+              "65568",
+              "65570",
+              "65571",
+              "65572",
+              "65574",
+              "65575",
+              "65576",
+              "65577",
+              "65578",
+              "65580",
+              "65582",
+              "65583",
+              "65584",
+              "65587",
+              "65588",
+              "65589",
+              "65590",
+              "65591",
+              "65592",
+              "65593",
+              "65594",
+              "65595",
+              "65596",
+              "65597",
+              "65598",
+              "65599",
+              "65603",
+              "65605",
+              "65610",
+              "65612",
+              "65613",
+              "65615",
+              "65616",
+              "65617",
+              "65620",
+              "65621",
+              "65625",
+              "65639",
+              "65641",
+              "67490",
+              "68700",
+              "68704",
+              "68709",
+              "68710",
+              "68712",
+              "68716",
+              "68718",
+              "68722",
+              "68723",
+              "68727",
+              "68731",
+              "68738",
+              "68915",
+              "69081",
+              "69114",
+              "69180",
+              "69364",
+              "69365",
+              "69366",
+              "69371",
+              "69372",
+              "69376",
+              "69377",
+              "69378",
+              "69382",
+              "69385",
+              "69397",
+              "69398",
+              "69399",
+              "69408",
+              "69409",
+              "69410",
+              "69411",
+              "69412",
+              "69413",
+              "69414",
+              "69415",
+              "69416",
+              "69417",
+              "69418",
+              "69419",
+              "69420",
+              "69421",
+              "69422",
+              "69423",
+              "69424",
+              "69425",
+              "69426",
+              "69427",
+              "69429",
+              "69430",
+              "69431",
+              "69432",
+              "69433",
+              "69434",
+              "69435",
+              "69593",
+              "69675",
+              "69676",
+              "69692",
+              "69723",
+              "70003",
+              "70348"
+            ]
+          }
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1793009674036,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+      },
+      "queryKey": [
+        "vacanciesRegionList",
+        {}
+      ],
+      "queryHash": "[\"vacanciesRegionList\",{}]"
+    },
+    {
+      "dehydratedAt": 1793009674145,
+      "state": {
+        "data": "eyJhbGciOiJSU0EtT0FFUC0yNTYiLCJlbmMiOiJBMjU2R0NNIn0.EL8WmKGmn0ixz6w5GtZ1mNI0KTINuWQN8WCTK93Zo0F-XzQAKdU1gizGJ8x42gq-c0-GybfLBidrEPne5XR8hu1A2CZX3bZeVy8hmIYf3lZKH6FmWaMpfZtSFYFtIgsq2eBTBs6J0LZjnKmFdil1txiRiTn-UU3LAqLH6qtym8trdifK-nTgAfUGjF4ZLymlKoiws7sEnSi-_T39UOH9mrNWwGPOzm_y33dTojc4slremaDFGkcrFFHb1yjfaqeLgurgm9AE-HaSui34hXFlCQeI5QfXCxA2ISEvRQ3uVEar0qaHHUtCyVC2gda96BVfAD_C-LWqlkMOG-_a0WaSYw.pXWo9FjCAm3sHj2c.Q4asM1ciapEduJJ9u8526VfynM4TQxPQfMbSEB4IJsLsH0rFNo0i16suT1nl6lWFig7qOk0Uugmx_r7lwQsuiOmoTCnc-4M2AXpRi1CDVuU-8dM1wS1o-gKO3UDV3-KSBZL3UjQteGTUyDuLIxcNknahw8lJRI3gsLutbzq1Biuu4nM9d5FqIy9BQKpra8DF09fUygD45C12JohYhNcxxv3uH7BQasdGk5NjNIGmshRZGudTLupU2I6fEPyTQeriSQUAB4Yo03GHmthFTv1DG-sayZBbv_7b0xwTFhvKHI9W791bSFnT5CBZKWg3hJI_lVPRfgDST6pYgyIwxX2cmegNcSB3qj_jpaboFzZ9zP3FiZ85WTzVrz6XcQp7kU_WMu6p1rttKh8dEQolD0YudR0acmp_zX9vB0j1a4MTd9F0CZ6TxiO-aCHE-UQs55kEFzALBA2cbiGpRhdm2dtQgQE51ZJQZyQ5DrjGVHPp9FmUkci0Q1aM3NIJnEi940F21iTq9uqKuS6Gamod-UpQOC_BEr6OAcO3g9lY1j1C1fzxGDn-A4jm3na-05DiV6D4Qq_bUwBVbwoAcJgVbv10LWX3CEZCGB9akX7kTrBe1El6TnGEp9-FzEr4tdWdCSTnsMrWA6nGIKvtzKfpwScYUubTd0FN6TbjK_GZX2hpdPoTtkF7bfYHFie5yAs90OUyw4LqRmoeNJ-vjTtah57Nqoa9l8TTGaDMRllBJDS4jnTfXlnK-hFQNwY4niV20DxZU_agaPpHLBQkN3yc_3xY0dk6tucC9cAQ42t7-Lej4pesF6XNgzpFk9QzkMi9BzqjQagYUx2NLEGHgHMNJ-v253cnR7e0dYBWP2k0Wlk4QCgeu5O2jXGJ5LuACp_oPXX1n1n0P_3w95mLe9W0EcnSMB9b961xuD_6WW0eqfeuTMi2W7CwSOCDtDO_raCN59gbwKOU.-P5F28znNTqW43kFWJ4ghQ",
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1793009674041,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+      },
+      "queryKey": [
+        "passepartout/getToken",
+        {}
+      ],
+      "queryHash": "[\"passepartout/getToken\",{}]"
+    },
+    {
+      "dehydratedAt": 1793009674145,
+      "state": {
+        "data": {
+          "albums": [
+            {
+              "id": "all",
+              "name": "Все",
+              "count": 32
+            },
+            {
+              "id": "outside",
+              "name": "Снаружи",
+              "count": 1
+            },
+            {
+              "id": "owner",
+              "name": "От владельца",
+              "count": 29
+            },
+            {
+              "id": "user",
+              "name": "От пользователей",
+              "count": 1
+            }
+          ],
+          "code": 200
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1793009674051,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+      },
+      "queryKey": [
+        "fetchEntityAlbums",
+        {
+          "objectId": "70000001025057435"
+        }
+      ],
+      "queryHash": "[\"fetchEntityAlbums\",{\"objectId\":\"70000001025057435\"}]"
+    },
+    {
+      "dehydratedAt": 1793009674145,
+      "state": {
+        "data": {
+          "pages": [
+            {
+              "items": [
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2025-09-11T18:54:04.339916+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "185752509",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2025-09-11T20:50:43.249865+07:00",
+                    "id": "53386061",
+                    "logo_preview_urls": {
+                      "1920x": "https://ams2-cdn.2gis.com/previews/1069085743864872963/b057ada2-4601-4ffc-a140-fd4debe5727a/1/ru/image_1920.png",
+                      "320x": "https://ams2-cdn.2gis.com/previews/1069085743864872963/b057ada2-4601-4ffc-a140-fd4debe5727a/1/ru/image_320.png",
+                      "640x": "https://ams2-cdn.2gis.com/previews/1069085743864872963/b057ada2-4601-4ffc-a140-fd4debe5727a/1/ru/image_640.png",
+                      "64x64": "https://ams2-cdn.2gis.com/previews/1069085743864872963/b057ada2-4601-4ffc-a140-fd4debe5727a/1/ru/image_64_64.png",
+                      "url": "https://ams2-cdn.2gis.com/previews/1069085743864872963/b057ada2-4601-4ffc-a140-fd4debe5727a/1/ru/image.png"
+                    },
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Уважаемый Айдар! Благодарим Вас за отзыв и хотим Вам предложить 1) перед планированием встречи созваниваться заранее с начальством, высылать презентации на имейл и 2) не ожидать, что языковые школы будут перенаправлять Вам своих учеников, не зная, что Вы из себя представляете. Наша школа дорожит своей репутацией, которую мы зарабатывали много лет. И нам небезразлична как судьба наших учеников. Именно поэтому мы доверяем обучение наших ребят только проверенным людям! Удачи!"
+                  },
+                  "provider": "2gis",
+                  "rating": 1,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Начальство неадекватное 👎",
+                  "trust_factors": {
+                    "factors": [
+                      {
+                        "caption": "1 посещение",
+                        "icon": "https://cachizer1.2gis.com/reviews-logos/0a13e48a-4335-4988-b02a-f0b2e77c3a5f.png?h={height}&w={width}",
+                        "last_visit": "2025-09-11T18:22:48.0Z",
+                        "type": "location_visit",
+                        "visits_count": 1
+                      }
+                    ],
+                    "trust_info": {
+                      "caption": "1 посещение",
+                      "confirmed_caption": "Отзыв подтверждён"
+                    }
+                  },
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Aidar Sharafullin",
+                    "id": "51556553",
+                    "last_name": null,
+                    "name": "Aidar Sharafullin",
+                    "photo_preview_urls": {
+                      "1920x": "",
+                      "320x": "",
+                      "640x": "",
+                      "64x64": "",
+                      "url": ""
+                    },
+                    "provider": "2gis",
+                    "public_id": "e0812852b314446e8165c216700d5e2b",
+                    "reviews_count": 3,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 0,
+                  "date_created": "2023-05-31T12:56:35.749687+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "52331110",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [
+                    {
+                      "photo": {
+                        "date_created": "2023-05-31T12:56:36.047345+07:00",
+                        "id": "5797422",
+                        "preview_urls": {
+                          "1920x": "https://cachizer1.2gis.com/reviews-photos/e26a5277-581e-4be0-9f1a-c276b3513e05.jpg?w=1920",
+                          "320x": "https://cachizer1.2gis.com/reviews-photos/e26a5277-581e-4be0-9f1a-c276b3513e05.jpg?w=320",
+                          "640x": "https://cachizer1.2gis.com/reviews-photos/e26a5277-581e-4be0-9f1a-c276b3513e05.jpg?w=640",
+                          "64x64": "https://cachizer1.2gis.com/reviews-photos/e26a5277-581e-4be0-9f1a-c276b3513e05.jpg?h=64&w=64",
+                          "url": "https://cachizer1.2gis.com/reviews-photos/e26a5277-581e-4be0-9f1a-c276b3513e05.jpg"
+                        },
+                        "processing_status": "finished",
+                        "visibility_status": "visible"
+                      }
+                    }
+                  ],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": null,
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Выражаем благодарность нашему преподавателю Диюновой Светлане Ивановне за продуктивное обучение на курсах английского языка. Занятия проходят увлекательно. Дочь стала легче усваивать школьную программу по английскому языку, соответственно успеваемость повысилась, домашнее задание с легкостью делает сама. Вы лучшие в своем деле!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "татьяна кравченко(маркина)",
+                    "id": "42720319",
+                    "last_name": null,
+                    "name": "татьяна кравченко(маркина)",
+                    "photo_preview_urls": {
+                      "1920x": "https://i6.photo.2gis.com/images/profile/30258560106869464_f500_1920x.jpg",
+                      "320x": "https://i6.photo.2gis.com/images/profile/30258560106869464_f500_320x.jpg",
+                      "640x": "https://i6.photo.2gis.com/images/profile/30258560106869464_f500_640x.jpg",
+                      "64x64": "https://i6.photo.2gis.com/images/profile/30258560106869464_f500_64x64.jpg",
+                      "url": "https://i6.photo.2gis.com/images/profile/30258560106869464_f500.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "a82e09a085824e7a8a84cf8327e81358",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 0,
+                  "date_created": "2023-08-14T20:24:59.17897+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "57818816",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": null,
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Школа нравится, ребенок доволен! Хорошие преподаватели!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Анжелла Антонина",
+                    "id": "44656992",
+                    "last_name": null,
+                    "name": "Анжелла Антонина",
+                    "photo_preview_urls": {
+                      "1920x": "",
+                      "320x": "",
+                      "640x": "",
+                      "64x64": "",
+                      "url": ""
+                    },
+                    "provider": "2gis",
+                    "public_id": "4aeb7539b85b42159986ec6790e72f16",
+                    "reviews_count": 3,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2023-06-03T13:20:30.220283+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "52520980",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2023-06-25T23:40:13.714434+07:00",
+                    "id": "18858265",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Спасибо большое за теплый отзыв! Ждем Вас в новом учебном году!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Ходим в данную школу 2 года. Для меня как для мамы показатель - знания ребёнка и его интерес к изучению языка. Очень хорошая директор Светлана👍Замечательный преподаватель Илюза👍 100% рекомендую эту школу. Эти преподаватели смогут заинтересовать даже самого непоседу 😊",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Алина С",
+                    "id": "38007880",
+                    "last_name": null,
+                    "name": "Алина С",
+                    "photo_preview_urls": {
+                      "1920x": "",
+                      "320x": "",
+                      "640x": "",
+                      "64x64": "",
+                      "url": ""
+                    },
+                    "provider": "2gis",
+                    "public_id": "a11503e548ae4da09f7a2807f54474a1",
+                    "reviews_count": 3,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2023-06-03T00:08:04.258089+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "52501948",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2023-06-25T23:41:48.98396+07:00",
+                    "id": "18858288",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Спасибо большое за оценку нашей работы! Мы искренне хотим, чтобы наши ребята полюбили английский язык и с легкостью использовали его в жизни!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Отличная школа, рекомендую!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Айнур .",
+                    "id": "31154728",
+                    "last_name": null,
+                    "name": "Айнур .",
+                    "photo_preview_urls": {
+                      "1920x": "",
+                      "320x": "",
+                      "640x": "",
+                      "64x64": "",
+                      "url": ""
+                    },
+                    "provider": "2gis",
+                    "public_id": "3b3699cae6884501adaad52f1e333533",
+                    "reviews_count": 9,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2023-05-31T16:17:06.40152+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "52344538",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2023-06-25T23:43:32.451903+07:00",
+                    "id": "18858312",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Спасибо огромное за теплые слова. Нет ничего ценнее, чем видеть, как на глазах у ребенка меняется как и отношение к предмету, так и успехи в школе и в дальнейшем в жизни!!!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Хочу выразить благодарность Диюновой Светлане Ивановне. Попали в эту школу только в конце третей четверти. Ребёнок ненавидел английский язык. К концу учебного года мы с ним подружились. Все объяснения доступны. Ребёнку очень нравится. Подтянулся по пройденым темам. 👍 Будем продолжать обучение и в дальнейшем. 💐",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Elena Peshekhonova",
+                    "id": "42721980",
+                    "last_name": null,
+                    "name": "Elena Peshekhonova",
+                    "photo_preview_urls": {
+                      "1920x": "",
+                      "320x": "",
+                      "640x": "",
+                      "64x64": "",
+                      "url": ""
+                    },
+                    "provider": "2gis",
+                    "public_id": "b445b8a79ebc4afc9d5a4804809e8aad",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2023-05-31T15:04:06.971466+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "52339360",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2023-06-25T23:44:22.631051+07:00",
+                    "id": "18858324",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Спасибо большое за добрую оценку нашей работы! Ждем Вас в новом учебном году!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Выбрали школу по рекомендации и территориальному признаку. Закончили 1-й год. Дочери нравится, по английскому отлично и в обычной школе и здесь. Атмосфера для обучения комфортная. Планируем продолжить обучение в следующем году.",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Сергей А",
+                    "id": "41233119",
+                    "last_name": null,
+                    "name": "Сергей А",
+                    "photo_preview_urls": {
+                      "1920x": "",
+                      "320x": "",
+                      "640x": "",
+                      "64x64": "",
+                      "url": ""
+                    },
+                    "provider": "2gis",
+                    "public_id": "49b2bd40891a41048dbe4feced701214",
+                    "reviews_count": 3,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 0,
+                  "date_created": "2023-05-31T13:56:10.752131+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "52334712",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": null,
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Школа очень понравилась, сын на занятия ходил с удовольствием. Результат отличный. Продолжим ходить с удовольствием 👍🏻",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Мария Реданских",
+                    "id": "40715199",
+                    "last_name": null,
+                    "name": "Мария Реданских",
+                    "photo_preview_urls": {
+                      "1920x": "https://i6.photo.2gis.com/images/profile/30258560100745313_5853_1920x.jpg",
+                      "320x": "https://i6.photo.2gis.com/images/profile/30258560100745313_5853_320x.jpg",
+                      "640x": "https://i6.photo.2gis.com/images/profile/30258560100745313_5853_640x.jpg",
+                      "64x64": "https://i6.photo.2gis.com/images/profile/30258560100745313_5853_64x64.jpg",
+                      "url": "https://i6.photo.2gis.com/images/profile/30258560100745313_5853.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "5845132bbd61432e80897f7f3a8d6f39",
+                    "reviews_count": 3,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 0,
+                  "date_created": "2023-05-31T13:19:25.539408+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "52332476",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": null,
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Отличная школа ! Очень рады , что попали сюда ! Великолепный педагог с шикарным подходом к каждому ребёнку . Группы небольшие . Изучаем английский с удовольствием . Рекомендую всем !",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Розалия Равилова",
+                    "id": "39879785",
+                    "last_name": null,
+                    "name": "Розалия Равилова",
+                    "photo_preview_urls": {
+                      "1920x": "",
+                      "320x": "",
+                      "640x": "",
+                      "64x64": "",
+                      "url": ""
+                    },
+                    "provider": "2gis",
+                    "public_id": "92dbe029bac141bb9b108dc3a6c13653",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 0,
+                  "date_created": "2023-05-31T13:06:31.327719+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "52331721",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": null,
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Замечательная школа английского языка! Дочка ходит с удовольствием. Задания доступны и понятны, материал дается в форме забавных историй, песенок. Радует хорошее произношение, которое появилось у ребенка за этот учебный год. Надеемся продолжить дальнейшее обучение осенью",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Анна Иванова",
+                    "id": "42720422",
+                    "last_name": null,
+                    "name": "Анна Иванова",
+                    "photo_preview_urls": {
+                      "1920x": "https://i6.photo.2gis.com/images/profile/30258560106869827_3625_1920x.jpg",
+                      "320x": "https://i6.photo.2gis.com/images/profile/30258560106869827_3625_320x.jpg",
+                      "640x": "https://i6.photo.2gis.com/images/profile/30258560106869827_3625_640x.jpg",
+                      "64x64": "https://i6.photo.2gis.com/images/profile/30258560106869827_3625_64x64.jpg",
+                      "url": "https://i6.photo.2gis.com/images/profile/30258560106869827_3625.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "3962008f8e444e8db2513858ee294983",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 0,
+                  "date_created": "2020-03-03T16:00:54.508781+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "14248696",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": null,
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Посещали данную школу 1 год, когда ребенку было 5 лет. И, если бы не уехали, ходили бы до сих пор. Квалифицированные педагоги, любящие детей - что ни мало важно. Рекомендуем!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Anna Markina",
+                    "id": "22738746",
+                    "last_name": null,
+                    "name": "Anna Markina",
+                    "photo_preview_urls": {
+                      "1920x": "https://i6.photo.2gis.com/images/profile/844424980155396_88bb_1920x.jpg",
+                      "320x": "https://i6.photo.2gis.com/images/profile/844424980155396_88bb_320x.jpg",
+                      "640x": "https://i6.photo.2gis.com/images/profile/844424980155396_88bb_640x.jpg",
+                      "64x64": "https://i6.photo.2gis.com/images/profile/844424980155396_88bb_64x64.jpg",
+                      "url": "https://i6.photo.2gis.com/images/profile/844424980155396_88bb.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "b736062561ac4681b9201f75d2022be0",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-24T12:37:33.320411+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10140485",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-24T14:42:52.746305+07:00",
+                    "id": "1887782",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Татьяна, большое Вам спасибо за высокую оценку нашей работы!!!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Замечательная школа. Ребёнок занимается второй год. Словарный запас растёт. Прогресс в изучении языка очень заметен. Учителя очень внимательные. Много упражнений в игровой форме. Думаю, именно благодаря преподавателям: их отношению, методике обчения, ребёнку нравится и интересен англ. язык. Рекомендую!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Татьяна Грекова",
+                    "id": "18915971",
+                    "last_name": null,
+                    "name": "Татьяна Грекова",
+                    "photo_preview_urls": {
+                      "1920x": "https://i6.photo.2gis.com/images/profile/844424971477136_43c0_1920x.jpg",
+                      "320x": "https://i6.photo.2gis.com/images/profile/844424971477136_43c0_320x.jpg",
+                      "640x": "https://i6.photo.2gis.com/images/profile/844424971477136_43c0_640x.jpg",
+                      "64x64": "https://i6.photo.2gis.com/images/profile/844424971477136_43c0_64x64.jpg",
+                      "url": "https://i6.photo.2gis.com/images/profile/844424971477136_43c0.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "740a9ba8100a442ea3d25d4ad2548b03",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-24T10:30:21.045399+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10139340",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-24T14:41:41.460501+07:00",
+                    "id": "1887773",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Спасибо большое, Юлия!! Будем и дальше стараться!!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Школа отличная, рекомендую 👍🏼",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Юлия Плутова",
+                    "id": "13422724",
+                    "last_name": null,
+                    "name": "Юлия Плутова",
+                    "photo_preview_urls": {
+                      "1920x": "https://i9.photo.2gis.com/images/profile/844424960012059_1a21_1920x.jpg",
+                      "320x": "https://i9.photo.2gis.com/images/profile/844424960012059_1a21_320x.jpg",
+                      "640x": "https://i9.photo.2gis.com/images/profile/844424960012059_1a21_640x.jpg",
+                      "64x64": "https://i9.photo.2gis.com/images/profile/844424960012059_1a21_64x64.jpg",
+                      "url": "https://i9.photo.2gis.com/images/profile/844424960012059_1a21.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "995f6f9e676e4267ac6aab1d5adb5d1b",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-23T18:01:29.124892+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10132621",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-24T14:41:12.062419+07:00",
+                    "id": "1887770",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Спасибо большое!!! Стараемся:)"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Отличная школа английского. Рекомендую",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Рома Фролов",
+                    "id": "18907955",
+                    "last_name": null,
+                    "name": "Рома Фролов",
+                    "photo_preview_urls": {
+                      "1920x": "https://i0.photo.2gis.com/images/profile/844424971459910_fa36_1920x.jpg",
+                      "320x": "https://i0.photo.2gis.com/images/profile/844424971459910_fa36_320x.jpg",
+                      "640x": "https://i0.photo.2gis.com/images/profile/844424971459910_fa36_640x.jpg",
+                      "64x64": "https://i0.photo.2gis.com/images/profile/844424971459910_fa36_64x64.jpg",
+                      "url": "https://i0.photo.2gis.com/images/profile/844424971459910_fa36.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "ea3c826265344fa49385346d88c66733",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-21T18:36:31.188132+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10109067",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-21T19:36:33.452033+07:00",
+                    "id": "1876073",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Большое спасибо за высокую оценку нашей работы!!! Будем и дальше стараться, работать в удовольствие и на результат!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Дочка (1 класс) ходит в школу английского языка уже второй год. Мне и ребенку нравится форма обучения: занятия ведутся на английском языке, поют песни, выполняют задания в учебниках, на компьютере или на доске. Удобное месторасположение школы. Преподаватели очень дружелюбные, находят подход к любому ребенку, дают обратную связь и рекомендации для легкого обучения. Советую Tower Bridge тем, кто хочет полюбить и обучиться языку.",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "suvenir61",
+                    "id": "5133809",
+                    "last_name": null,
+                    "name": "suvenir61",
+                    "photo_preview_urls": {
+                      "1920x": "",
+                      "320x": "",
+                      "640x": "",
+                      "64x64": "",
+                      "url": ""
+                    },
+                    "provider": "2gis",
+                    "public_id": "1468db6d02654c879781b489f9099900",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-20T17:12:37.568808+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10096019",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-20T21:27:30.594137+07:00",
+                    "id": "1871910",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Алия, спасибо больое за Ваш теплый отзыв! Мы искренне считаем, что успех в обучении зависит в равной степени и от родителей, поэтому мы с родителями и детьми всегда работаем в тесном сотрудничестве, чтобы они были в курсе всех достижений ребят. Некоторые из родителей в результате хотят и сами язык изучать. Для них у нас есть отдельная группа:)"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Очень рекомендую эту школу английского языка. Двое моих детей посещают эту школу. Дети очень довольны. Уроки проходят не в принужденной обстановке. Отдельно хотелось бы похвалить преподавателей школы. Очень отзывчивые, хорошо контактируют с родителями и детьми. Найдут подход к любому ребёнку) Профессионалы своего дела!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Алия Мухаметгалиева",
+                    "id": "18869181",
+                    "last_name": null,
+                    "name": "Алия Мухаметгалиева",
+                    "photo_preview_urls": {
+                      "1920x": "https://i0.photo.2gis.com/images/profile/30258560079276440_404d_1920x.jpg",
+                      "320x": "https://i0.photo.2gis.com/images/profile/30258560079276440_404d_320x.jpg",
+                      "640x": "https://i0.photo.2gis.com/images/profile/30258560079276440_404d_640x.jpg",
+                      "64x64": "https://i0.photo.2gis.com/images/profile/30258560079276440_404d_64x64.jpg",
+                      "url": "https://i0.photo.2gis.com/images/profile/30258560079276440_404d.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "eb028116581a4be1a4cae151977c3bde",
+                    "reviews_count": 2,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-20T16:56:24.610124+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10095828",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-21T19:37:44.779668+07:00",
+                    "id": "1876084",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Зульфия, спасибо большое за отзыв! Мы стараемся делать все, чтобы в нашей школе ребятам было интересно и они искренне полюбили английский язык!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Мои дети с удовольствием ходят на английские уроки в данной школе. Группы очень дружные, общение на уроке проходит на английском языке, что очень радует. Самое главное, дети полюбили английский язык.",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Зуля Аухадеева",
+                    "id": "18869014",
+                    "last_name": null,
+                    "name": "Зуля Аухадеева",
+                    "photo_preview_urls": {
+                      "1920x": "https://i9.photo.2gis.com/images/profile/844424971370979_9f38_1920x.jpg",
+                      "320x": "https://i9.photo.2gis.com/images/profile/844424971370979_9f38_320x.jpg",
+                      "640x": "https://i9.photo.2gis.com/images/profile/844424971370979_9f38_640x.jpg",
+                      "64x64": "https://i9.photo.2gis.com/images/profile/844424971370979_9f38_64x64.jpg",
+                      "url": "https://i9.photo.2gis.com/images/profile/844424971370979_9f38.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "134f394f00754f1caedf0d9f4bd19227",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-20T13:59:55.032496+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10093537",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-20T21:20:48.109027+07:00",
+                    "id": "1871886",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Да, у нас есть группы дошкольников и взрослых, и мама, и сестренка очень хорошо справляются с программой и показывают отличные результаты! Так держать!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Моя маленькая сестренка и мама учатся в этой школе, им очень нравится, доступно и понятно обучают и деток и взрослых, рекомендую.",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Станислав Рябчиков",
+                    "id": "7226628",
+                    "last_name": null,
+                    "name": "Станислав Рябчиков",
+                    "photo_preview_urls": {
+                      "1920x": "https://i3.photo.2gis.com/images/profile/844424961049573_3e7e_1920x.jpg",
+                      "320x": "https://i3.photo.2gis.com/images/profile/844424961049573_3e7e_320x.jpg",
+                      "640x": "https://i3.photo.2gis.com/images/profile/844424961049573_3e7e_640x.jpg",
+                      "64x64": "https://i3.photo.2gis.com/images/profile/844424961049573_3e7e_64x64.jpg",
+                      "url": "https://i3.photo.2gis.com/images/profile/844424961049573_3e7e.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "8396b891b99044fabf7ff7ea46e1450b",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-19T22:29:05.860467+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10088475",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-20T21:24:05.900787+07:00",
+                    "id": "1871896",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Зиля, огромное спасибо за высокую оценку нашей работы! Да, Вы правы, успех нельзы измерить сухим количеством слов. Только когда искренне любишь язык, хочется на нем разговаривать. Мы стараемся ребятам дать не только слова для запоминания, а познакомить их с культурой и традициями страны, вызвать интерес, погрузить в языковую среду, чтобы все занятие проходило на английском языке. Это дает отличные результаты!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Будучи довольно щепетильной в том, что касается образования моей дочери, я могу с уверенностью сказать, что данная школа отвечает всем моим требованиям. В школе Tower Bridge люди не просто работают, а любят свое дело и умеют его делать хорошо. Дочь с удовольствием бежит на занятия, а учимся ведь уже 2 года. Главное в обучении для меня не количество выученных слов , а любовь к языку, которую в Tower Bridge легко воспитают!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Зиля Валиева",
+                    "id": "6546866",
+                    "last_name": null,
+                    "name": "Зиля Валиева",
+                    "photo_preview_urls": {
+                      "1920x": "https://i4.photo.2gis.com/images/profile/844424968753994_0492_1920x.jpg",
+                      "320x": "https://i4.photo.2gis.com/images/profile/844424968753994_0492_320x.jpg",
+                      "640x": "https://i4.photo.2gis.com/images/profile/844424968753994_0492_640x.jpg",
+                      "64x64": "https://i4.photo.2gis.com/images/profile/844424968753994_0492_64x64.jpg",
+                      "url": "https://i4.photo.2gis.com/images/profile/844424968753994_0492.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "f7c30bb022a44edba80ae547454f3243",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-19T20:28:08.223989+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10087319",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-20T21:19:33.357289+07:00",
+                    "id": "1871882",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Наталья, спасибо большое за Ваш отзыв! Нам очень приятна такая высокая оценка нашей работы!!! Будем и дальше стараться:)"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Мой сын и дочь посещают школу Tower Bridge Очень довольны результатом. Эта школа освободила меня от постоянных сидений за уроками английского языка.\nВыражаем огромную благодарность преподователям за интересные уроки, которые с удовольствием посещают дети, за профессионализм и качество обучения.\nУровень преподавания очень высокий, успеваемость в школе на «отлично».\nБольшое спасибо, нас все устраивает, так держать!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Натали Петрова",
+                    "id": "18857491",
+                    "last_name": null,
+                    "name": "Натали Петрова",
+                    "photo_preview_urls": {
+                      "1920x": "https://i6.photo.2gis.com/images/profile/844424971348326_9b6e_1920x.jpg",
+                      "320x": "https://i6.photo.2gis.com/images/profile/844424971348326_9b6e_320x.jpg",
+                      "640x": "https://i6.photo.2gis.com/images/profile/844424971348326_9b6e_640x.jpg",
+                      "64x64": "https://i6.photo.2gis.com/images/profile/844424971348326_9b6e_64x64.jpg",
+                      "url": "https://i6.photo.2gis.com/images/profile/844424971348326_9b6e.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "02f8f02edb8a4826bf712ee371225312",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-19T14:26:31.537778+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10083812",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-19T15:42:43.253623+07:00",
+                    "id": "1866110",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Валентина, спасибо за высокую оценку нашей работы! Наша задача - увлечь ребенка языком, показать его красоту и практическую необходимость в современном мире. Задания у нас действительно непростые, но только через преодоление трудностей, в совместной и индивидуальной работе, ребята достигают таких хороших результатов, которыми наша школа очень гордится! Так держать!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "В Tower Bridge учимся первый год, Результатами очень довольны, подтверждение тому-дипломы победителя на республиканской олимпиаде. группы небольшие и каждому ученику достается внимание педагога. Регулярная обратная связь об успеваемости ребенка, интересные и очень непростые задания. Я сделала правильный выбор, переведя ребенка именно в Tower Bridge.",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Вероника Пушкина",
+                    "id": "14913482",
+                    "last_name": null,
+                    "name": "Вероника Пушкина",
+                    "photo_preview_urls": {
+                      "1920x": "https://i0.photo.2gis.com/images/profile/30258560096305645_ee01_1920x.jpg",
+                      "320x": "https://i0.photo.2gis.com/images/profile/30258560096305645_ee01_320x.jpg",
+                      "640x": "https://i0.photo.2gis.com/images/profile/30258560096305645_ee01_640x.jpg",
+                      "64x64": "https://i0.photo.2gis.com/images/profile/30258560096305645_ee01_64x64.jpg",
+                      "url": "https://i0.photo.2gis.com/images/profile/30258560096305645_ee01.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "02ba4bb8c3054e6da439e46687401a51",
+                    "reviews_count": 8,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-19T03:28:16.705615+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10081291",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-19T13:32:17.995882+07:00",
+                    "id": "1865860",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Дина, большое спасибо за высокую оценку нашей работы! Очень приятно!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Замечательная школа! Очень грамотные преподаватели, умеющие заинтересовать ребенка. Дочка посещает ее уже второй год, со второго класса, ходит с удовольствием. Теперь английский язык ее любимый предмет. Соответственно в школе одни пятерки. Всем рекомендую только Tower Bridge!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Дина Антипина",
+                    "id": "18852846",
+                    "last_name": null,
+                    "name": "Дина Антипина",
+                    "photo_preview_urls": {
+                      "1920x": "https://i7.photo.2gis.com/images/profile/844424971340337_1a07_1920x.jpg",
+                      "320x": "https://i7.photo.2gis.com/images/profile/844424971340337_1a07_320x.jpg",
+                      "640x": "https://i7.photo.2gis.com/images/profile/844424971340337_1a07_640x.jpg",
+                      "64x64": "https://i7.photo.2gis.com/images/profile/844424971340337_1a07_64x64.jpg",
+                      "url": "https://i7.photo.2gis.com/images/profile/844424971340337_1a07.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "133aeb7822a84dbc84f4a37da397cfde",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-18T16:09:26.39579+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10074928",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-19T02:56:15.737436+07:00",
+                    "id": "1865419",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Эвелина, большое спасибо за высокую оценку работы нашей школы! Конечно, нет предела совершенству:), и мы постоянно работаем над тем, чтобы уроки были интересными, а наши ребята показывали отличные результаты!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "Посещаем эту школу уже 2 года. Преподаватели умеют заинтересовывать своих учеников, всё очень доступно, понятно и увлекательно. Дочке очень нравится. Самое главное - есть результат. Но всегда есть к чему стремиться))) Планируем и дальше учиться в этой школе.",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Эвелина Гарифуллина",
+                    "id": "18846886",
+                    "last_name": null,
+                    "name": "Эвелина Гарифуллина",
+                    "photo_preview_urls": {
+                      "1920x": "https://i0.photo.2gis.com/images/profile/844424971328740_101c_1920x.jpg",
+                      "320x": "https://i0.photo.2gis.com/images/profile/844424971328740_101c_320x.jpg",
+                      "640x": "https://i0.photo.2gis.com/images/profile/844424971328740_101c_640x.jpg",
+                      "64x64": "https://i0.photo.2gis.com/images/profile/844424971328740_101c_64x64.jpg",
+                      "url": "https://i0.photo.2gis.com/images/profile/844424971328740_101c.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "e939839b9c834eafb5e76e44b20ec752",
+                    "reviews_count": 4,
+                    "url": ""
+                  }
+                },
+                {
+                  "additional_data": {
+                    "external_id": null,
+                    "filtered_facts": null,
+                    "from_friend": false,
+                    "has_unresolved_complaints": false,
+                    "ip": "",
+                    "is_liked": null,
+                    "is_unrated_permanently": null,
+                    "pin_status": "none",
+                    "status_history": [],
+                    "user_agent": ""
+                  },
+                  "comments_count": 1,
+                  "date_created": "2019-05-18T05:50:53.326427+07:00",
+                  "date_edited": null,
+                  "hiding_reason": null,
+                  "hiding_type": null,
+                  "id": "10071066",
+                  "is_hidden": false,
+                  "is_rated": true,
+                  "likes_count": 0,
+                  "media": [],
+                  "object": {
+                    "id": "70000001025057435",
+                    "type": "branch"
+                  },
+                  "official_answer": {
+                    "date_created": "2019-05-18T14:40:25.90721+07:00",
+                    "id": "1864092",
+                    "logo_preview_urls": {},
+                    "org_name": "Тауэр бридж, школа английского языка",
+                    "text": "Спасибо большое, Алсу, за высокую оценку нашей работы!!! Стараемся для Вас, работаем на результат!"
+                  },
+                  "provider": "2gis",
+                  "rating": 5,
+                  "region_id": 29,
+                  "source": null,
+                  "text": "О школе английского языка Tower Bridge сложились исключительно положительные впечатления. Здесь люди не просто работают, а любят свое дело и умеют делать это хорошо. Дети ходят с удовольствием! Система обучения многогранная, увлекательная, познавательная, эффективная!",
+                  "url": "",
+                  "user": {
+                    "additional_data": {
+                      "email": null
+                    },
+                    "first_name": "Alsu Gal",
+                    "id": "18842707",
+                    "last_name": null,
+                    "name": "Alsu Gal",
+                    "photo_preview_urls": {
+                      "1920x": "https://i8.photo.2gis.com/images/profile/844424968422460_2010_1920x.jpg",
+                      "320x": "https://i8.photo.2gis.com/images/profile/844424968422460_2010_320x.jpg",
+                      "640x": "https://i8.photo.2gis.com/images/profile/844424968422460_2010_640x.jpg",
+                      "64x64": "https://i8.photo.2gis.com/images/profile/844424968422460_2010_64x64.jpg",
+                      "url": "https://i8.photo.2gis.com/images/profile/844424968422460_2010.jpg"
+                    },
+                    "provider": "2gis",
+                    "public_id": "324e8d5ccbd34fcd8dce10832e81f06d",
+                    "reviews_count": 1,
+                    "url": ""
+                  }
+                }
+              ],
+              "total": 24,
+              "rating": 4.8,
+              "orgRating": 0,
+              "totalForRequest": 24,
+              "hasMore": false,
+              "code": 500
+            }
+          ],
+          "pageParams": [
+            null
+          ]
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1793009674144,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+      },
+      "queryKey": [
+        "fetchEntityReviews",
+        [
+          "70000001025057435",
+          "branch",
+          null,
+          null,
+          null,
+          null,
+          null,
+          "trust"
+        ]
+      ],
+      "queryHash": "[\"fetchEntityReviews\",[\"70000001025057435\",\"branch\",null,null,null,null,null,\"trust\"]]"
+    }
+  ]
+}
